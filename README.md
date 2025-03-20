@@ -1,3 +1,2 @@
 # Bootcamp-Bradesco
-Projetos desenvolvidos durante um bootcamp realizado em parceria com o banco Bradesco através do vs code (teste)
-alteração teste desktop
+Projetos desenvolvidos durante um bootcamp realizado em parceria com o banco Bradesco através do vs code 
